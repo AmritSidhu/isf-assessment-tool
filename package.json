@@ -1,5 +1,7 @@
 {
   "name": "isf-assessment-tool",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "govuk-frontend": "^2.11.0"
+  }
 }
